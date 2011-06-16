@@ -1,0 +1,8 @@
+id:hollywood
+
+Dependencies:
+	imdbpy
+	python 2.6
+usage:
+	In linux:
+		$python rank_hollywood_actors.py
